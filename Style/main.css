@@ -1,0 +1,56 @@
+* {
+  padding: 0;
+}
+.z .email {
+  background: linear-gradient(to right, #000ed6, lightblue, rgb(200, 0, 200));
+  padding: 10px;
+}
+.z input {
+  margin-top: 15px;
+}
+#mail {
+  border: 1px solid white;
+  border-right: none;
+  padding: 6px 0 6px 15px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  width: 200px;
+  font-size: 12px;
+}
+.z .mail label {
+  font-size: 12px;
+  background-color: #23a6f0;
+  color: white;
+  padding: 4px;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+  border: 1px solid white;
+  border-left: none;
+  position: relative;
+  right: 5px;
+  padding: 6px;
+}
+.z label:hover {
+  background-color: steelblue;
+}
+.z .mail {
+}
+.z .cards button {
+  background-color: #23a6f0;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 15px;
+}
+.z .cards button:hover {
+  background-color: steelblue;
+}
+.z .cards i {
+  color: rgb(68, 193, 68);
+}
+.z .card p {
+  font-size: 13px;
+}
+.z .card img {
+  margin-left: 50px;
+}
