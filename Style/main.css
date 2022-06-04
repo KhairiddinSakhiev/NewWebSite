@@ -1,9 +1,10 @@
+/* Tamim Project Started */
 * {
     margin: 0;
 }
 
 .inside-image {
-    background-image: url(../img/1.jpg);
+    background-image: url(./Images/1.jpg);
     height: 100vh;
     background-repeat: no-repeat;
 }
@@ -206,6 +207,9 @@ h4 {
     color: white;
     font-size: 14px;
 }
+
+/* Tamim Project Finished */
+
 
 
 .u-map {
